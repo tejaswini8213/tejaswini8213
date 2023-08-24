@@ -21,4 +21,4 @@
 
 ![tejaswini8213's Stats](https://github-readme-stats.vercel.app/api?username=tejaswini8213&theme=react&show_icons=true&hide_border=true&count_private=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tejaswini8213&theme=black-ice)](https://git.io/streak-stats)
+![tejaswini8213's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tejaswini8213&theme=react&hide_border=true)
