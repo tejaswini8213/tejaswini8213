@@ -2,7 +2,7 @@
 <h3 align="center">A student technophile</h3>
 
 
-  <img alt="Coder cat" src="codercat.jpg" width="200" height="121" align="right"/>
+  <img alt="Coder cat" src="codercat.jpg" width="200" height="200" align="right"/>
 
 - 👀I'm interested in **MLOps, Cloud, WebDev**
 
