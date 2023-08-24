@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tejaswini</h1>
 <h3 align="center">A student technophile</h3>
 
+
+  <img alt="Coder cat" src="data/octocat/codercat.jpg" align="right"/>
+
 - 👀I'm interested in **MLOps, Cloud, WebDev**
 
 - 🌱 I’m currently learning **DL, React, Django, API's and Cloud**
