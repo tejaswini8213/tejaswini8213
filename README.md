@@ -4,7 +4,7 @@
 
   <img alt="Coder cat" src="codercat.jpg" width="200" height="200" align="right"/>
 
-- 👀I'm interested in **MLOps, Cloud, WebDev, AppDev**
+- 👀I'm interested in **MLOps, Cloud, DevOps, AppDev**
 
 - 🌱 I’m currently learning **DL, React, Django, API's and Cloud**
 
