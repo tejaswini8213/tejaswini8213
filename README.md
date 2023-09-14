@@ -6,7 +6,7 @@
 
 - 👀I'm interested in **MLOps, Cloud, DevOps, AppDev**
 
-- 🌱 I’m currently learning **DL, React, Django, API's and Cloud**
+- 🌱 I’m currently learning **DL, Django, API's and Cloud**
 
 - 📫 How to reach me **tejaswinithota83@gmail.com**
 
